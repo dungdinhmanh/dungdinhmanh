@@ -19,8 +19,6 @@
 ![Github](https://img.shields.io/badge/-Github%20-%20?style=for-the-badge&logo=github&color=%23181717)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000)
 
 ### OS
