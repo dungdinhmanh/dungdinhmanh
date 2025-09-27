@@ -26,7 +26,6 @@
     "markdown-it-custom-attrs": "^1.0.2",
     "md5": "^2.3.0",
     "minisearch": "^7.1.1",
-    "normalize.css": "^8.0.1",
-    "valaxy-theme-yun": "^0.26.6"
+    "normalize.css": "^8.0.1"
   }
 }
