@@ -10,26 +10,24 @@
 ### 🔧 Technologies & Skills
 
 **System Administration:**
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/-Shell%20Script-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian%20Packaging-%23A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+[![sysadmin](https://skillicons.dev/icons?i=arch,bash,debian,linux)](https://skillicons.dev)
 
 **Web Development:**
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![VitePress](https://img.shields.io/badge/-VitePress-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+[![web](https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs,tailwind)](https://skillicons.dev)
 
 **Programming:**
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+[![programming_language](https://skillicons.dev/icons?i=py,cpp,rust)](https://skillicons.dev)
+
+**Frameworks:**
+
+[![fw](https://skillicons.dev/icons?i=flutter,tauri)](https://skillicons.dev)
 
 **DevOps & Tools:**
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-%232671E5?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
+[![tools](https://skillicons.dev/icons?i=git,githubactions,docker,vscode,neovim)](https://skillicons.dev)
 ### 🚀 Featured Projects
 
 **KivotOS** - A Blue Archive themed Linux distribution
@@ -43,9 +41,7 @@
 - Package distribution for yazi, hellwal, and more
 
 ### 💻 Operating Systems
-![Arch](https://img.shields.io/badge/-Arch%20Linux%20-%20?style=for-the-badge&logo=archlinux&logoColor=white&color=%231793D1)
-![Debian](https://img.shields.io/badge/-Debian%20-%20?style=for-the-badge&logo=debian&logoColor=white&color=%23A81D33)
-
+[![My Skills](https://skillicons.dev/icons?i=arch,debian,windows)](https://skillicons.dev)
 ### 📚 Github Status
 
 <p>
@@ -54,5 +50,6 @@
 </p>
 
 ### 🌐️ Reach me at
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dungdinhmanh)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/dungdinhmanh)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/725285084328099901)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dung.archlabs/)
