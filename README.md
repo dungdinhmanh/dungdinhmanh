@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋&section=header&textBg=false&desc=Welcome%20to%20my%20profile&descAlignY=55&reversal=false&fontColor=f5c2e7&fontAlignY=37)
-<h2 align="center">Hi, I'm Dũng Đinh</h2>
+<h2 align="center">I'm Dũng Đinh, a lazy man who like Blue Archive </h2>
 <h3 align="center">Tech enthusiast & Linux developer in Vietnam</h3>
 
 <p align="center">
