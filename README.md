@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dũng Đinh</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there%20👋&section=header&textBg=false&desc=Welcome%20to%20my%20profile&descAlignY=55&reversal=false&fontColor=f5c2e7&fontAlignY=37)
+<h2 align="center">Hi, I'm Dũng Đinh</h2>
 <h3 align="center">Tech enthusiast & Linux developer in Vietnam</h3>
 
 <p align="center">
@@ -53,3 +54,6 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/dungdinhmanh)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/725285084328099901)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dung.archlabs/)
+
+### osu!stats
+[![osu! signature card](https://osu-sig.vercel.app/card?user=dungdinhmanh&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=255&skills=true&cycleskillsstats=true)](https://osu.ppy.sh/u/dungdinhmanh)
