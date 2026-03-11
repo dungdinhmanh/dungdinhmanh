@@ -54,6 +54,3 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/dungdinhmanh)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/725285084328099901)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dung.archlabs/)
-
-### osu!stats
-[![osu! signature card](https://osu-sig.vercel.app/card?user=dungdinhmanh&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=255&skills=true&cycleskillsstats=true)](https://osu.ppy.sh/u/dungdinhmanh)
