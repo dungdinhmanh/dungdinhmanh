@@ -15,7 +15,6 @@
         <span class="label">{{ t('language') }}</span>
         <div class="select-wrapper">
           <select v-model="selectedLanguage" @change="changeLanguage">
-            <option value="zh">{{ t('languages.zh') }}</option>
             <option value="en">{{ t('languages.en') }}</option>
             <option value="vi">{{ t('languages.vi') }}</option>
           </select>
@@ -41,25 +40,9 @@
   const { state } = useStore()
   
   const selectedTheme = ref('system')
-  const selectedLanguage = ref('zh')
+  const selectedLanguage = ref('vi')
   
   const translations = {
-    zh: {
-      theme: '主题',
-      language: '语言',
-      fireworksEnabled: '烟花',
-      SpinePlayerEnabled: 'Spine',
-      options: {
-        light: 'Arona',
-        dark: 'Plana', 
-        system: 'System'
-      },
-      languages: {
-        zh: '中文',
-        en: 'English',
-        vi: 'Tiếng Việt'
-      }
-    },
     en: {
       theme: 'Theme',
       language: 'Language', 
@@ -71,7 +54,6 @@
         system: 'System'
       },
       languages: {
-        zh: '中文',
         en: 'English', 
         vi: 'Tiếng Việt'
       }
@@ -87,7 +69,6 @@
         system: 'System'
       },
       languages: {
-        zh: '中文',
         en: 'English',
         vi: 'Tiếng Việt'
       }
@@ -115,7 +96,7 @@
   onMounted(() => {
       // 读取语言设置
       const storedLanguage = localStorage.getItem('uiLanguage')
-      selectedLanguage.value = storedLanguage || 'zh'
+      selectedLanguage.value = storedLanguage || 'vi'
       
       // 读取主题设置,如果没有存储值则默认使用system
       const storedTheme = localStorage.getItem('darkMode')
