@@ -24,7 +24,7 @@ Welcome to my corner of the internet! Let me tell you a bit about myself through
 
 ## **Q: What's your current main project?**
 
-**A:** I'm currently developing **[KivotOS](https://github.com/dungdinhmanh/KivotOS)** - a Linux distribution that brings the world of Blue Archive to your desktop experience. It's essentially "Linux meets Blue Archive" with Arona as your system assistant!
+**A:** I'm currently developing **[KivotOS](https://github.com/Kivot-OS/KivotOS)** - a Linux distribution that brings the world of Blue Archive to your desktop experience. It's essentially "Linux meets Blue Archive" with Arona/Plana as your system assistant!
 
 ::: tip What is KivotOS?
 KivotOS is more than just a themed Linux distro - it's about making the computing experience more engaging and fun while maintaining all the power and flexibility that Linux users love.
@@ -78,8 +78,8 @@ KivotOS is more than just a themed Linux distro - it's about making the computin
 
 Want to follow my journey or collaborate on projects? You can find me on:
 
-- 💻 **GitHub**: [@dungdinhmanh](https://github.com/dungdinhmanh)
-- 🌐 **This Blog**: Where I share development insights and project updates
+- **GitHub**: [@dungdinhmanh](https://github.com/dungdinhmanh)
+- **This Blog**: Where I share development insights and project updates
 
 ::: details Fun Facts About Me
 - I'm still learning but love experimenting with new technologies
