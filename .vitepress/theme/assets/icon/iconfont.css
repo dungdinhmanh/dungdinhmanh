@@ -82,16 +82,28 @@
 }
 
 .icon-facebook {
-  background: url('/icon/icon-facebook.svg') no-repeat center;
-  background-size: contain;
+  background: url('/icon/icon-facebook.svg') no-repeat center !important;
+  background-size: contain !important;
+  font-size: 0 !important;
+  width: 1.2em;
+  height: 1.2em;
+  display: inline-block;
 }
 
 .icon-discord {
-  background: url('/icon/icon-discord.svg') no-repeat center;
-  background-size: contain;
+  background: url('/icon/icon-discord.svg') no-repeat center !important;
+  background-size: contain !important;
+  font-size: 0 !important;
+  width: 1.2em;
+  height: 1.2em;
+  display: inline-block;
 }
 
 .icon-steam {
-  background: url('/icon/icon-steam.svg') no-repeat center;
-  background-size: contain;
+  background: url('/icon/icon-steam.svg') no-repeat center !important;
+  background-size: contain !important;
+  font-size: 0 !important;
+  width: 1.2em;
+  height: 1.2em;
+  display: inline-block;
 }
