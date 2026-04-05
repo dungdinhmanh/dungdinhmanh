@@ -27,7 +27,7 @@ export interface ThemeConfig {
 }
 
 export default defineConfigWithTheme<ThemeConfig>({
-  lang: 'zh-CN',
+  lang: 'en-US',
   head: [
     ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
     // gitalk
@@ -102,11 +102,11 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //gitalk配置
-    clientID: 'Ov23lia9U9wFN3WMyoKK',
-    clientSecret: 'b2418ab598c188c43a247c99e728dd2735d58c3b',
-    repo: 'dungdinhmanh',
-    owner: 'dungdinhmanh',
-    admin: ['dungdinhmanh'],
+    clientID: process.env.GITALK_CLIENT_ID || '',
+    clientSecret: process.env.GITALK_CLIENT_SECRET || '',
+    repo: process.env.GITALK_REPO || 'dungdinhmanh',
+    owner: process.env.GITALK_OWNER || 'dungdinhmanh',
+    admin: (process.env.GITALK_ADMIN || 'dungdinhmanh').split(','),
   },
   markdown: {
     theme: 'solarized-dark',
