@@ -81,29 +81,32 @@
   content: "\E778";
 }
 
-.icon-facebook {
-  background: url('/icon/icon-facebook.svg') no-repeat center !important;
-  background-size: contain !important;
-  font-size: 0 !important;
-  width: 1.2em;
-  height: 1.2em;
+.icon-facebook::before {
+  content: '' !important;
+  background: url('/icon/icon-facebook.svg') no-repeat center;
+  background-size: contain;
+  width: 1.5em;
+  height: 1.5em;
   display: inline-block;
+  vertical-align: middle;
 }
 
-.icon-discord {
-  background: url('/icon/icon-discord.svg') no-repeat center !important;
-  background-size: contain !important;
-  font-size: 0 !important;
-  width: 1.2em;
-  height: 1.2em;
+.icon-discord::before {
+  content: '' !important;
+  background: url('/icon/icon-discord.svg') no-repeat center;
+  background-size: contain;
+  width: 1.5em;
+  height: 1.5em;
   display: inline-block;
+  vertical-align: middle;
 }
 
-.icon-steam {
-  background: url('/icon/icon-steam.svg') no-repeat center !important;
-  background-size: contain !important;
-  font-size: 0 !important;
-  width: 1.2em;
-  height: 1.2em;
+.icon-steam::before {
+  content: '' !important;
+  background: url('/icon/icon-steam.svg') no-repeat center;
+  background-size: contain;
+  width: 1.5em;
+  height: 1.5em;
   display: inline-block;
+  vertical-align: middle;
 }
