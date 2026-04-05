@@ -83,8 +83,11 @@
 
 .icon-facebook::before {
   content: '' !important;
-  background: url('/icon/icon-facebook.svg') no-repeat center;
-  background-size: contain;
+  -webkit-mask: url('/icon/icon-facebook.svg') no-repeat center;
+  mask: url('/icon/icon-facebook.svg') no-repeat center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  background-color: currentColor;
   width: 1.5em;
   height: 1.5em;
   display: inline-block;
@@ -93,8 +96,11 @@
 
 .icon-discord::before {
   content: '' !important;
-  background: url('/icon/icon-discord.svg') no-repeat center;
-  background-size: contain;
+  -webkit-mask: url('/icon/icon-discord.svg') no-repeat center;
+  mask: url('/icon/icon-discord.svg') no-repeat center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  background-color: currentColor;
   width: 1.5em;
   height: 1.5em;
   display: inline-block;
@@ -103,8 +109,11 @@
 
 .icon-steam::before {
   content: '' !important;
-  background: url('/icon/icon-steam.svg') no-repeat center;
-  background-size: contain;
+  -webkit-mask: url('/icon/icon-steam.svg') no-repeat center;
+  mask: url('/icon/icon-steam.svg') no-repeat center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  background-color: currentColor;
   width: 1.5em;
   height: 1.5em;
   display: inline-block;
