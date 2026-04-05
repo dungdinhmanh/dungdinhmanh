@@ -80,3 +80,18 @@
 .icon-time:before {
   content: "\E778";
 }
+
+.icon-facebook {
+  background: url('/icon/icon-facebook.svg') no-repeat center;
+  background-size: contain;
+}
+
+.icon-discord {
+  background: url('/icon/icon-discord.svg') no-repeat center;
+  background-size: contain;
+}
+
+.icon-steam {
+  background: url('/icon/icon-steam.svg') no-repeat center;
+  background-size: contain;
+}

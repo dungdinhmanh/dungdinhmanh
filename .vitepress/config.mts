@@ -88,7 +88,10 @@ export default defineConfigWithTheme<ThemeConfig>({
       'Learning through hands-on projects and experimentation'
     ],
     social: [
-      { icon: 'github', url: 'https://github.com/dungdinhmanh' }
+      { icon: 'github', url: 'https://github.com/dungdinhmanh' },
+      { icon: 'facebook', url: 'https://facebook.com/dung.archlabs' },
+      { icon: 'discord', url: 'https://discord.com/users/725285084328099901' },
+      { icon: 'steam', url: 'https://steamcommunity.com/id/dungdinhmanh/' }
     ],
 
     //spine语音配置，可选zh/jp
