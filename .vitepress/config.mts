@@ -101,7 +101,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     footerName: 'dungdinhmanh',
     poweredList: [
       { name: 'VitePress', url: 'https://github.com/vuejs/vitepress' },
-      { name: 'GitHub Pages', url: 'https://docs.github.com/en/pages' },
+      { name: 'Netlify', url: 'https://www.netlify.com/' },
     ],
 
     //gitalk配置
